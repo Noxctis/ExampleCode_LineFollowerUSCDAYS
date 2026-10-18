@@ -1,0 +1,11 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
